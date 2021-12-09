@@ -22,7 +22,7 @@ import org.json.JSONObject;
 public class CallRestWebService {
 // new commit 
 	//2eme modif
-	//4eme modif
+	//4eme modiffff
 	public static final String endpoint = "http://ip-api.com/json";
 	//public static final String endpoint = "https://httpbin.org/get";
 	public static void main(String[] args) {
